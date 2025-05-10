@@ -1,27 +1,5 @@
-.
-
 🚢 Titanic Dataset - Task 1: Data Analysis & Exploration
 This project is part of Task 1 of Titanic dataset analysis and exploration. The goal is to perform initial data understanding, preprocessing, and visual exploration using Python in Visual Studio Code (VS Code).
-
-📁 Project Structure
-bash
-Copy
-Edit
-titanic-task1/
-│
-├── data/
-│   └── titanic.csv            # Original Titanic dataset
-│
-├── notebooks/
-│   └── task1_analysis.ipynb   # Jupyter notebook with EDA code
-│
-├── scripts/
-│   └── task1_analysis.py      # Python script with analysis code
-│
-├── images/
-│   └── *.png                  # Visualizations and plots
-│
-└── README.md                  # Project documentation
 📌 Objectives
 Load and inspect the dataset
 
