@@ -58,7 +58,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/titanic-task1.git
+git clone https://github.com/mokitha007/titanic-task1.git
 cd titanic-task1
 Install required libraries:
 
