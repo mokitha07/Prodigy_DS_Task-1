@@ -52,24 +52,6 @@ Many young children also survived.
 
 A significant number of values were missing in the Cabin column.
 
-▶️ How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/mokitha007/titanic-task1.git
-cd titanic-task1
-Install required libraries:
-
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn
-Open the Jupyter notebook (task1_analysis.ipynb) in VS Code and run all cells.
-
-📌 Dataset Source
-Kaggle Titanic: Machine Learning from Disaster
 vedio : https://drive.google.com/file/d/18sRDs-ozFw2EZG3ewhWrdednIHVfatGJ/view?usp=sharing
 contact me : http://www.linkedin.com/in/mokitha007
 
