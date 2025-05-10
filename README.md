@@ -52,6 +52,6 @@ Many young children also survived.
 
 A significant number of values were missing in the Cabin column.
 
-vedio : https://drive.google.com/file/d/18sRDs-ozFw2EZG3ewhWrdednIHVfatGJ/view?usp=sharing
+video : https://drive.google.com/file/d/18sRDs-ozFw2EZG3ewhWrdednIHVfatGJ/view?usp=sharing
 contact me : http://www.linkedin.com/in/mokitha007
 
